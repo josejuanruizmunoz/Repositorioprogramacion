@@ -1,3 +1,5 @@
+package EjerciciosT1;
+
 public class Ejercicio7 {
     public static void main(String[] args) {
         //Crea un programa que almacene tu información personal (nombre, apellido, edad y ciudad)

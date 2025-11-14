@@ -1,3 +1,5 @@
+package EjerciciosT1;
+
 public class Ejercicio8 {
     public static void main(String[] args) {
         //Desarrolla un programa que calcule el área de un rectángulo.

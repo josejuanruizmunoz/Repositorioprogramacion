@@ -1,3 +1,5 @@
+package EjerciciosT1;
+
 public class Ejercicio9 {
     public static void main(String[] args) {
         //Escribe un programa que almacene la información de un producto
@@ -10,6 +12,14 @@ public class Ejercicio9 {
         //Código: AUR-2023
         //Disponible: true
 
-        String
+        String nombreProducto ="Auriculares bluetooth";
+        double precio = 29.99;
+        String codigo ="AUR-2023";
+        boolean disponibilidad = true;
+
+        System.out.println("Nombre: " +nombreProducto);
+        System.out.println("Precio: " +precio);
+        System.out.println("Código: " +codigo);
+        System.out.println("¿Está disponible?: " +disponibilidad);
     }
 }

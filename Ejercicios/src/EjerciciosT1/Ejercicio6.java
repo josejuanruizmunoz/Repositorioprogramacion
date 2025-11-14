@@ -1,3 +1,5 @@
+package EjerciciosT1;
+
 public class Ejercicio6 {
     public static void main(String[] args) {
         //Escribe un programa que declare dos variables numéricas,

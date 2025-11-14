@@ -1,3 +1,5 @@
+package EjerciciosT1;
+
 public class Ejercicio3 {
     public static void main(String[] args) {
         //Define cinco variables con diferentes tipos de datos

@@ -1,3 +1,5 @@
+package EjerciciosT1;
+
 public class Ejercicio1 {
     public static void main(String[] args) {
         //Ej1 T1 Crea un programa que defina tres variables:
